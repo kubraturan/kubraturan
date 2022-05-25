@@ -1,6 +1,6 @@
 Hey 👋🏻,
 
-I am a Softaware Developer from Turkey 🇹🇷🇹. I am interested in, write about and develop (open source) software solutions for and with JavaScript, ReactJs, Go, Flutter and NodeJS.
+I am a Software Developer from Turkey 🇹🇷🇹. I am interested in, write about and develop (open source) software solutions for and with JavaScript, ReactJs, Go, Flutter and NodeJS.
 
 ## 📬 Get in touch
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/kubraturann/">
